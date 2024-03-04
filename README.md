@@ -19,5 +19,3 @@ b term in the pressure Poisson equation -
 ![image](https://github.com/Swadesh03/Navier-Stokes_Cpp/assets/118707050/d68c20c4-94d4-4d58-b799-3d1a4560b86a)
 
 
-
-
